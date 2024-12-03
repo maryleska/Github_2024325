@@ -15,6 +15,7 @@ public class Github_2024325 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Maryleska-2024325");
     }
     
 }
